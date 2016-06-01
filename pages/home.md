@@ -53,5 +53,5 @@ How can I get Consus?
 Consus is not currently available.
 
 We are currently actively developing Consus and an associated tech report
-describing its inner workings.  We will be publishing the source code concurrent
-with the tech report under an open-source license.
+describing its inner workings.  We will be publishing the source code under an
+open-source license once the tech report is published.
