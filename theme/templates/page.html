@@ -1,0 +1,6 @@
+{% extends "base.html" %}
+{% set active_page = page.navbar|default(None) %}
+{% block title %}{{ page.title }} :: {{ super() }}{% endblock %}
+{% block content %}
+{{ page.content }}
+{% endblock %}
