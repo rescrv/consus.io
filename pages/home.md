@@ -50,8 +50,5 @@ under the advisement of [Robbert van Renesse](https://www.cs.cornell.edu/home/rv
 How can I get Consus?
 =====================
 
-Consus is not currently available.
-
-We are currently actively developing Consus and an associated tech report
-describing its inner workings.  We will be publishing the source code under an
-open-source license once the tech report is published.
+Consus is available on [GitHub](http://github.com/rescrv/Consus).  There is an
+accompanying tech report available on [arxiv](http://arxiv.org/abs/1612.03457).
